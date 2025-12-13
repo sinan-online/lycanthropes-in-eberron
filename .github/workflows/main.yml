@@ -1,0 +1,60 @@
+name: Build LaTeX document
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    env:
+      BASENAME: lycanthropes-in-eberron
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: pdflatex main
+        uses: dante-ev/latex-action@latest
+        env:
+          TEXINPUTS: ".:/github/workspace/classes//:"
+        with:
+          root_file: tex/${{ env.BASENAME }}.tex
+          compiler: pdflatex
+          args: -interaction=nonstopmode -shell-escape
+
+      - name: pdflatex main 2
+        uses: dante-ev/latex-action@latest
+        env:
+          TEXINPUTS: ".:/github/workspace/classes//:"
+        with:
+          root_file: tex/${{ env.BASENAME }}.tex
+          compiler: pdflatex
+          args: -interaction=nonstopmode -shell-escape
+
+      - name: Upload the PDF
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.BASENAME }}
+          path: |
+            ./${{ env.BASENAME }}.pdf
+            ./${{ env.BASENAME }}.log
+
+      - name: Tag release with PDF version
+        run: |
+          TAG_NAME="pdf-$(date +'%Y%m%d-%H%M')"
+          git tag $TAG_NAME
+          git push origin $TAG_NAME
+
+      - name: Commit PDF back to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch
+          git checkout main
+          mkdir -p pdf
+          cp ${{ env.BASENAME }}.pdf pdf/
+          git add pdf/${{ env.BASENAME }}.pdf -f
+          git commit -m "Update compiled PDF $(date +'%Y%m%d-%H%M')" || echo "No changes to commit"
+          git push origin main

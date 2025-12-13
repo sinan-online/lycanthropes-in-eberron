@@ -1,0 +1,56 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build LaTeX",
+			"type": "shell",
+			"command": "pdflatex",
+			"args": [
+				"-interaction=nonstopmode",
+				"${file}"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "Build LaTeX Twice",
+			"command": "sh",
+			"args": [
+				"-c",
+				"pdflatex -interaction=nonstopmode \"${file}\" && pdflatex -interaction=nonstopmode \"${file}\""
+			],
+			"dependsOrder": "sequence",
+			"problemMatcher": []
+		},
+		{
+			"label": "Open The Built PDF",
+			"type": "shell",
+			"command": "code",
+			"args": [
+				"-r",
+				"${fileDirname}/${fileBasenameNoExtension}.pdf"
+			],
+			"dependsOn": ["Build LaTeX Twice"],
+			"problemMatcher": []
+		},
+		{
+			"label": "Spell Check",
+			"type": "shell",
+			"command": "sh",
+			"args": [
+				"-c",
+				"aspell --lang=en --mode=tex --personal=/workspace/.aspell.en.pws list < '${file}' | sort -u"
+			],
+			"presentation": {
+				"echo": true,
+				"reveal": "always",
+				"focus": false,
+				"panel": "shared"
+			},
+			"problemMatcher": []
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"name": "LaTeX Dev Container",
+	"dockerFile": "Dockerfile",
+	"workspaceFolder": "/workspace",
+	"mounts": [
+		"source=${localWorkspaceFolder},target=/workspace,type=bind",
+		"source=${localEnv:HOME}/.ssh,target=/root/.ssh,type=bind,consistency=cached",
+		"source=${localEnv:HOME}/.vimrc,target=/root/.vimrc,type=bind,consistency=cached"
+	],
+	"features": {
+		"ghcr.io/devcontainers/features/git:1": {
+
+		}
+	},
+	"postStartCommand": "chown -R root:root /root/.ssh && chmod 700 /root/.ssh && chmod 600 /root/.ssh/* 2>/dev/null || true",
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"latex-workshop.latex.tools": [
+					{
+						"name": "pdflatex",
+						"command": "pdflatex",
+						"args": [
+							"-interaction=nonstopmode",
+							"-file-line-error",
+							"-synctex=1",
+							"%DOC%"
+						],
+						"env": {
+							"TEXINPUTS": ".:/workspace/classes//:"
+						}
+					}
+				],
+				"latex-workshop.latex.recipes": [
+					{
+						"name": "pdflatex",
+						"tools": [
+							"pdflatex",
+							"pdflatex"
+						]
+					}
+				],
+				"latex-workshop.view.pdf.viewer": "tab",
+				"latex-workshop.latex.autoBuild.run": "onFileChange",
+				"latex-workshop.latex.autoClean.run": "onBuilt",
+				"latex-workshop.latex.clean.fileTypes": [
+					"*.aux",
+					"*.bbl",
+					"*.blg",
+					"*.idx",
+					"*.ind",
+					"*.lof",
+					"*.lot",
+					"*.out",
+					"*.toc",
+					"*.acn",
+					"*.acr",
+					"*.alg",
+					"*.glg",
+					"*.glo",
+					"*.gls",
+					"*.fls",
+					"*.log",
+					"*.fdb_latexmk",
+					"*.snm",
+					"*.nav",
+					"*.synctex.gz"
+				],
+				"latex-workshop.latex.outDir": "%DIR%",
+				"latex-workshop.synctex.afterBuild.enabled": true
+			},
+			"extensions": [
+				"github.copilot",
+		        "github.copilot-chat",
+				"James-Yu.latex-workshop"
+			]
+		}
+	},
+	"remoteUser": "root"
+}
