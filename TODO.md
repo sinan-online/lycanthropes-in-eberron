@@ -1,0 +1,2 @@
+- [ ] Create a starter paragraph
+- [ ] Think about the other Lycanthropes
