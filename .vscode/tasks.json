@@ -9,6 +9,11 @@
 				"-interaction=nonstopmode",
 				"${file}"
 			],
+			"options": {
+				"env": {
+					"TEXINPUTS": "/workspace/classes//:"
+				}
+			},
 			"group": {
 				"kind": "build",
 				"isDefault": true
@@ -22,6 +27,11 @@
 				"-c",
 				"pdflatex -interaction=nonstopmode \"${file}\" && pdflatex -interaction=nonstopmode \"${file}\""
 			],
+			"options": {
+				"env": {
+					"TEXINPUTS": "/workspace/classes//:"
+				}
+			},
 			"dependsOrder": "sequence",
 			"problemMatcher": []
 		},
