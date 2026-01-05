@@ -16,6 +16,7 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
+				"terminal.integrated.defaultProfile.linux": "bash",
 				"latex-workshop.latex.tools": [
 					{
 						"name": "pdflatex",
@@ -77,5 +78,5 @@
 			]
 		}
 	},
-	"remoteUser": "root"
+	"remoteUser": "vscode"
 }
