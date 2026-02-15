@@ -4,15 +4,14 @@
 	"workspaceFolder": "/workspace",
 	"mounts": [
 		"source=${localWorkspaceFolder},target=/workspace,type=bind",
-		"source=${localEnv:HOME}/.ssh,target=/root/.ssh,type=bind,consistency=cached",
-		"source=${localEnv:HOME}/.vimrc,target=/root/.vimrc,type=bind,consistency=cached"
+		"source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached",
+		"source=${localEnv:HOME}/.vimrc,target=/home/vscode/.vimrc,type=bind,consistency=cached"
 	],
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {
 
 		}
 	},
-	"postStartCommand": "chown -R root:root /root/.ssh && chmod 700 /root/.ssh && chmod 600 /root/.ssh/* 2>/dev/null || true",
 	"customizations": {
 		"vscode": {
 			"settings": {
