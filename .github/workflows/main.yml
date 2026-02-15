@@ -44,17 +44,19 @@ jobs:
       - name: Tag release with PDF version
         run: |
           TAG_NAME="pdf-$(date +'%Y%m%d-%H%M')"
+          git pull --rebase origin ${{ github.head_ref }}
           git tag $TAG_NAME
           git push origin $TAG_NAME
 
-      # - name: Commit PDF back to repo
-      #   run: |
-      #     git config --global user.name "github-actions[bot]"
-      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      #     git fetch
-      #     git checkout main
-      #     mkdir -p pdf
-      #     cp ${{ env.BASENAME }}.pdf pdf/
-      #     git add pdf/${{ env.BASENAME }}.pdf -f
-      #     git commit -m "Update compiled PDF $(date +'%Y%m%d-%H%M')" || echo "No changes to commit"
-      #     git push origin main
+      - name: Commit PDF back to repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch
+          git checkout main
+          git pull --rebase origin ${{ github.head_ref }}
+          mkdir -p pdf
+          cp ${{ env.BASENAME }}.pdf pdf/
+          git add pdf/${{ env.BASENAME }}.pdf -f
+          git commit -m "Update compiled PDF $(date +'%Y%m%d-%H%M')" || echo "No changes to commit"
+          git push origin main
