@@ -47,6 +47,7 @@ Finally, werewolves with hereditary lycanthropy have control over their transfor
     It makes most sense to play with a full party of hereditary lycantrophes, similar to W:tA to keep the game balanced and relevant to all players.
 \end{DndSidebar}
 
+Conceptually, ``Hereditary Lycanthrophes'' are what Keith Baker refers to as ``alpha'' in \href{https://keith-baker.com/2025-lycanthropes/}{his blog post, here}.
 
 \subsection*{Contracted Lycanthropy}
 A character bitten or scratched by a lycanthrope must make a DC 12 Constitution saving throw.
@@ -178,7 +179,7 @@ In this form, the werewolf fully transforms into a wolf.
 \paragraph*{Bite Attack} They can use their action to make a bite attack, dealing 1d4 piercing damage plus their strength modifier. They are proficient with this attack. This attack can also transmit lycanthropy if the target fails a DC 12 Constitution saving throw.
 \paragraph*{Pack Tactics} If they have an ally within 5 feet of their target, they have advantage on attack rolls against that target.
 
-\section{Forced Shifting}
+\section{Involuntary Shifting}
 Contracted lycanthropes must shift into their Hybrid form during a full moon.
 Hereditary lycanthropes do not have to shift - they have control over their shifts.
 However, there are certain conditions which can cause them to shift unwillingly:
@@ -187,14 +188,16 @@ However, there are certain conditions which can cause them to shift unwillingly:
     \item Entering the \emph{frightened} condition
     \item \emph{Vicious Mockery} spell
     \item \emph{Tasha's Caustic Brew} spell
+    \item DM's discretion: once every full moon
 \end{itemize}
 
 If these take place, the lycanthrope must make a Wisdom saving throw.
 The DC of the check is 18 - the character level in the werewolf class/2 (rounded down).
 On a failed save, they immediately shift into their Hybrid form.
-On a successful save, they can choose to resist the shift.
+On a successful save, they can choose to resist the shift, and do not neeed to roll again for 24 hours.
 If their moon is full, they have disadvantage on this saving throw.
 If their moon is new, (dark moon) they have advantage on this saving throw.
+Finally, being under the effect of the spell \emph{Calm Emotions} gives advantage.
 
 \section*{Werewolf Class}
 
@@ -248,18 +251,37 @@ Unless stated otherwise, Moon Features apply in Shifter, Hybrid, Dire, and Anima
 % Kythri, the Churning Chaos - Closest moon to Eberron, greatest effect on tides. Cycles and dates based on nothing.
 % WRITING PROMPT: Storm Lords - Authority, wrath, rulership; Get of Fenris - Strength, honor, survival of the strong
 
+% Something about winds and howls?
 
-
+% Where are they orginating from?
 
 \subsection*{Olarune, Sentinel}
 % Lamannia, the Twilight Forest - Follows the seasons, full every summer solstice and new every winter solstice.
 % WRITING PROMPT: Hunters in Darkness - Territory, purity, the hunt, boundary enforcers, sacred places
 
+% Where are they orginating from?
+
 \subsection*{Therendor, Healing}
 % Syrania, the Azure Sky - Brother moon of Barrakas. Full on 9th Rhaan for Boldrei's Feast when Syrania is coterminous.
-% WRITING PROMPT: Children of Gaia - Peace, balance, mercy, mediators and healers
 
-\subsubsection{Moon Features}
+% Where are they orginating from?
+
+\subsubsection{Features from Therendor}
+
+\paragraph*{Jump}
+Same as the \emph{Jump} spell.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\par
+\emph{Available Forms} Hybrid, Dire, Animal\par
+
+\paragraph*{Humanoid Jump}
+Same as the feature \emph{Jump} above, except it is available in all forms.\par
+\emph{Available Forms} Humanoid, Shifter, Hybrid, Dire, Animal\par
+\emph{Prerequisites} Jump, as above.\par
+
+\paragraph*{Jump II}
+All \emph{Jump} features now require only a short rest to replenish.\par
+\emph{Available Forms} As per the \par
+\emph{Prerequisites} Jump, as above.\par
 
 \paragraph*{Lick Wounds}
 As an action, you can lick a creature and restore hit points equal to 1d8 + your werewolf level.
@@ -267,24 +289,47 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 \emph{Available Forms} Shifter, Hybrid, Dire, Animal\par
 \emph{Prerequisites} Level 3\par
 
+\paragraph*{Lick Wounds II}
+\emph{Lick Wounds} require only a short rest to replenish.\par
+\emph{Available Forms} Humanoid, Shifter, Hybrid, Dire, Animal\par
+\emph{Prerequisites} Jump, as above.\par
+
+
+
 % TODO: Add something about curing disease, and even poison.
+% Something about calming down and controlling involuntary shifts.
+
 
 \subsection*{Eyre, Making}
 % Fernia, the Sea of Fire - Full for The Ascension on 1st Sypheros. Silver moon with affinity to Silver Flame.
 % WRITING PROMPT: Iron Masters - Adaptation, tools, change, technology, flexibility, evolution; Glass Walkers - Modernity, progress, cyberculture
 
+Werewolves under the auspices of the moon Eyre find themselves drawn to human settlements and cities.
+There are likely a few packs underneath Sharn, near the manifast zone of Fernia.
+Their survival strategy is to be close to the humans.
+
+% Where are they orginating from?
+
 \subsubsection{Moon Features}
 
 % Fire resistance
 % Fire immunity when in Hybrid form
+% A relevant artificer power, but only in human form?
 
 \subsection*{Dravago, Handling}
 % Risia, the Plain of Ice - Keeps distance from other moons. Embodies stagnation and preservation with same cycle every month.
 % WRITING PROMPT: Bone Gnawers - Urban survivors, poverty, adaptability, resilience
 
+% Ability to command packs of wolves.
+% Increase in number
+% Allow for conjuration?
+% Make them dire?
+
 \subsection*{Nymm, Hospitality}
 % Daanvi, the Perfect Order - First/last quarter for Aureon's Crown on 26th Dravago. Smallest moon that can perform total solar eclipse.
 % WRITING PROMPT: Silver Fangs - Aristocratic rulers, kingship, legacy, madness
+
+% Something about calming down and controlling involuntary shifts.
 
 \subsection*{Lharvion, Detection}
 % Xoriat, the Realm of Madness - Full for Wildnight on 18th Sypheros when The Fury reaches peak power. Retrograde orbit.
@@ -326,17 +371,23 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 % Dolurrh, the Realm of the Dead - Similar effect on manifest zones as Zarantyr has on tides. Single conjunction with most moons.
 % WRITING PROMPT: Uktena - Keepers of secrets and taboos, mysticism, the hidden, forbidden lore; Stargazers - Philosophical mystics, enlightenment, detachment
 
+% Speed increqases
+
 \subsection*{Vult, Warding}
 % Shavarath, the Battleground - Farthest moon from Eberron, holds back forces from the stars. Full on 12th Nymm for Brightblade celebrating Dol Dorn.
 % WRITING PROMPT: Red Talons - Wolf-first extremists, anti-humanity, wilderness purity
 In the wolf form, all werewolves have \emph{Pack Tactics}, but werewolves of Vult have it in all forms.
 
+% No vulnerability to silver?
+% Bonus bite attack in shifter form
 
 \subsection*{Crya, the Lost Moon}
 % Dal'Quor, the Region of Dreams - The thirteenth moon, destroyed or lost. Associated with the Mark of Death. Occurs between Vult and Zarantyr in the ancient Qabalrin Wheel calendar.
 % WRITING PROMPT: Bunyip (extinct) - Dreamtime spirits, spiritual collapse
 
 \section*{History of Lycanthropy in Eberron}
+
+% Silver Purge / Inquisition: 832 YK (lsats 50 years until 882 YK)
 
 \end{document}
 
