@@ -2,18 +2,18 @@
 - [ ] Think about the other Lycanthropes
 
 
-| Moon      | Available Features                                                                  | Count | Missing Features | Notes                                                                     |
-|-----------|-------------------------------------------------------------------------------------|-------|------------------|---------------------------------------------------------------------------|
-| Zarantyr  | 0                                                                                   | 8     | 0                | Only a placeholder. Needs 5+ features (e.g., storm-themed abilities).     |
-| Olarune   | 0                                                                                   | 0     | 5+               | Placeholder. Could focus on hunting/territory (e.g., tracking, stealth).  |
-| Therendor | Jump, Humanoid Jump, Jump II, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison | 7     | 0                | Fully fleshed out. Could trim or add prerequisites for balance.           |
-| Eyre      | 0                                                                                   | 0     | 5+               | Placeholder. Suggestions: fire resistance, artificer-like traits.         |
-| Dravago   | 0                                                                                   | 4     | 1+               | Placeholder. Ideas: wolf command, dire wolf summoning.                    |
-| Nymm      | 0                                                                                   | 0     | 5+               | Placeholder. Could focus on charm/calm (e.g., resist involuntary shifts). |
-| Lharvion  | 0                                                                                   | 0     | 5+               | Placeholder. Ideas: detect undead, necromancy sense.                      |
-| Barrakas  | Eternal Dawn                                                                        | 2     | 3+               | Needs 4+ more (e.g., darkvision, scent-based tracking).                   |
-| Rhaan     | 0                                                                                   | 0     | 5+               | Placeholder. Ideas: song/magic (e.g., bard-like abilities).               |
-| Sypheros  | 0                                                                                   | 1     | 4+               | Placeholder. Ideas: shadow manipulation, fear effects.                    |
-| Aryth     | 0                                                                                   | 3     | 2+               | Placeholder. Ideas: speed boosts, death-themed abilities.                 |
-| Vult      | Pack Tactics (all forms)                                                            | 3     | 2+               | Needs 4+ more (e.g., silver resistance, bonus attacks).                   |
-| Crya      | 0                                                                                   | 0     | 5+               | Placeholder. Ideas: dream manipulation, psychic abilities.                |
+| Moon      | Available Features                                                                                                                         | Count |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| Zarantyr  | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II | 8     |
+| Olarune   | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Therendor | Jump, Humanoid Jump, Jump II, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison                                                        | 7     |
+| Eyre      | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Dravago   | Speak with Animals, Speak with Animals II, Humanoid Speak with Animals, Speak with Animals III, Animal Messenger                           | 5     |
+| Nymm      | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Lharvion  | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Barrakas  | Beast Sense, Beast Sense II, Eternal Dawn                                                                                                  | 3     |
+| Rhaan     | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Sypheros  | Cunning Action                                                                                                                             | 1     |
+| Aryth     | Longstrider, Humanoid Longstrider, Longstrider II                                                                                          | 3     |
+| Vult      | Hunter's Mark, Hunter's Mark II, Human Hunter's Mark                                                                                       | 3     |
+| Crya      | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
