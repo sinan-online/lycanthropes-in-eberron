@@ -4,7 +4,7 @@
 
 | Moon      | Available Features                                                                  | Count | Missing Features | Notes                                                                     |
 |-----------|-------------------------------------------------------------------------------------|-------|------------------|---------------------------------------------------------------------------|
-| Zarantyr  | 0                                                                                   | 1     | 4+               | Only a placeholder. Needs 5+ features (e.g., storm-themed abilities).     |
+| Zarantyr  | 0                                                                                   | 8     | 0                | Only a placeholder. Needs 5+ features (e.g., storm-themed abilities).     |
 | Olarune   | 0                                                                                   | 0     | 5+               | Placeholder. Could focus on hunting/territory (e.g., tracking, stealth).  |
 | Therendor | Jump, Humanoid Jump, Jump II, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison | 7     | 0                | Fully fleshed out. Could trim or add prerequisites for balance.           |
 | Eyre      | 0                                                                                   | 0     | 5+               | Placeholder. Suggestions: fire resistance, artificer-like traits.         |
