@@ -11,7 +11,7 @@
 | Dravago   | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast, Summon Pack | 7     |
 | Nymm      | Soothing Howl, Soothing Howl Expanded                                                                                                     | 2     |
 | Lharvion  | Darkvision, Advanced Darkvision, Scent the Arcane, Scent the Arcane Humanoid, Detect Thoughts, Detect Thoughts Expanded, Scent of Poison and Disease, Scent of Poison and Disease Expanded | 8     |
-| Barrakas  | Beast Sense, Beast Sense Advanced, Darkvision, Advanced Darkvision, Hunter's Mark, Hunter's Mark Advanced, Humanoid Hunter's Mark          | 7     |
+| Barrakas  | Beast Sense, Beast Sense Advanced, Scent Animals or Plants, Scent Object, Scent Creature, Hunter's Mark, Hunter's Mark Advanced, Humanoid Hunter's Mark | 8     |
 | Rhaan     | Speak with Animals, Speak with Animals Expanded, Speak with Plants, Summon Fey, Conjure Woodland Beings                                    | 5     |
 | Sypheros  | Cunning Action, Pass without Trace, Pass without Trace Expanded                                                                            | 3     |
 | Aryth     | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride                                  | 6     |
