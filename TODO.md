@@ -6,7 +6,7 @@
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Zarantyr  | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II | 8     |
 | Olarune   | Pack Guardian, Humanoid Pack Guardian                                                                                                      | 2     |
-| Therendor | Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison, Detect Poison and Disease, Detect Poison and Disease Expanded                      | 6     |
+| Therendor | Healing Howl, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison, Detect Poison and Disease, Detect Poison and Disease Expanded        | 7     |
 | Eyre      | Resistance to Fire, Humanoid Resistance to Fire                                                                                            | 2     |
 | Dravago   | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast   | 6     |
 | Nymm      | Soothing Howl, Soothing Howl Expanded                                                                                                      | 2     |
