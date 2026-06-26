@@ -16,4 +16,4 @@
 | Sypheros  | Cunning Action, Pass without Trace, Pass without Trace Expanded                                                                            | 3     |
 | Aryth     | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride                                  | 6     |
 | Vult      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps                                                   | 5     |
-| Crya      | Pass without Trace                                                                                                                         | 1     |
+| Crya      | Pass without Trace, Wither and Bloom                                                                                                       | 2     |
