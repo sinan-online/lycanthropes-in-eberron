@@ -7,7 +7,7 @@
 | Zarantyr  | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II | 8     |
 | Olarune   | Pack Guardian, Humanoid Pack Guardian, Magic Claw, Magic Bite                                                                             | 4     |
 | Therendor | Healing Howl, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison, Scent of Poison and Disease, Scent of Poison and Disease Expanded, Greater Restoration | 8     |
-| Eyre      | Resistance to Fire, Humanoid Resistance to Fire, Magic Claw, Magic Bite                                                                   | 4     |
+| Eyre      | Resistance to Fire, Humanoid Resistance to Fire, Magic Claw, Magic Bite, Heat Metal                                                       | 5     |
 | Dravago   | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast, Summon Pack | 7     |
 | Nymm      | Soothing Howl, Soothing Howl Expanded                                                                                                     | 2     |
 | Lharvion  | Darkvision, Advanced Darkvision, Scent the Arcane, Scent the Arcane Humanoid, Detect Thoughts, Detect Thoughts Expanded, Scent of Poison and Disease, Scent of Poison and Disease Expanded | 8     |
