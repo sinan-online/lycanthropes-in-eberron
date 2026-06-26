@@ -5,15 +5,15 @@
 | Moon      | Available Features                                                                                                                         | Count |
 |-----------|--------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | Zarantyr  | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II | 8     |
-| Olarune   | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
-| Therendor | Jump, Humanoid Jump, Jump II, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison                                                        | 7     |
-| Eyre      | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
-| Dravago   | Speak with Animals, Speak with Animals II, Humanoid Speak with Animals, Speak with Animals III, Animal Messenger                           | 5     |
-| Nymm      | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
-| Lharvion  | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
-| Barrakas  | Beast Sense, Beast Sense II, Eternal Dawn                                                                                                  | 3     |
-| Rhaan     | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Olarune   | (None)                                                                                                                                     | 0     |
+| Therendor | Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison                                                                                     | 4     |
+| Eyre      | Resistance to Fire, Humanoid Resistance to Fire                                                                                            | 2     |
+| Dravago   | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast   | 6     |
+| Nymm      | (None)                                                                                                                                     | 0     |
+| Lharvion  | Darkvision, Advanced Darkvision                                                                                                            | 2     |
+| Barrakas  | Beast Sense, Beast Sense Advanced, Darkvision, Advanced Darkvision                                                                         | 4     |
+| Rhaan     | (None)                                                                                                                                     | 0     |
 | Sypheros  | Cunning Action                                                                                                                             | 1     |
-| Aryth     | Longstrider, Humanoid Longstrider, Longstrider II                                                                                          | 3     |
-| Vult      | Hunter's Mark, Hunter's Mark II, Human Hunter's Mark                                                                                       | 3     |
-| Crya      | (None under \subsubsection{Moon Features})                                                                                                 | 0     |
+| Aryth     | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced                                               | 5     |
+| Vult      | (None)                                                                                                                                     | 0     |
+| Crya      | (None)                                                                                                                                     | 0     |
