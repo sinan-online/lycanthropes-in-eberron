@@ -13,7 +13,7 @@
 | Lharvion  | Darkvision, Advanced Darkvision, Scent the Arcane, Scent the Arcane Humanoid, Detect Thoughts, Detect Thoughts Expanded, Detect Poison and Disease, Detect Poison and Disease Expanded | 8     |
 | Barrakas  | Beast Sense, Beast Sense Advanced, Darkvision, Advanced Darkvision, Hunter's Mark, Hunter's Mark Advanced, Humanoid Hunter's Mark          | 7     |
 | Rhaan     | Speak with Animals, Speak with Animals Expanded, Speak with Plants                                                                         | 3     |
-| Sypheros  | Cunning Action                                                                                                                             | 1     |
+| Sypheros  | Cunning Action, Pass without Trace, Pass without Trace Expanded                                                                            | 3     |
 | Aryth     | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced                                               | 5     |
 | Vult      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded                                                               | 4     |
-| Crya      | (None)                                                                                                                                     | 0     |
+| Crya      | Pass without Trace                                                                                                                         | 1     |
