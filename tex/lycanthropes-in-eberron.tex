@@ -32,8 +32,7 @@ If it is hereditary, the character is born with lycanthropy, and this cannot be 
 \subsection*{Hereditary Lycanthropy}
 Hereditary lycanthropes are born to one werewolf parent and one parent who is an ordinary Medium humanoid.
 Inheritance is not guaranteed --- the blood may or may not pass to the child --- but it cannot be diluted: a character either has hereditary lycanthropy or they do not.
-The exact probability and the inheritance rules governing mixed lineages are addressed in a later section.
-% TODO: Write the Hereditary Lycanthropy rules section — probability of inheritance from one werewolf parent, what happens when both parents are werewolves, whether the moon must match, and edge cases (werewolf grandparent, dormant bloodlines, etc.)
+The probability and inheritance rules are detailed in the Blood Inheritance section below, after the forms have been described.
 
 A character typically does not know they carry the blood until their passage into adulthood.
 At that threshold, the first shift comes on its own --- involuntary, disorienting, unmistakable.
@@ -212,6 +211,61 @@ As with the Dire Form, this form follows the wolf stat block from D\&D 5e: light
 \paragraph*{Bite Attack} They can use their action to make a bite attack, dealing 1d4 piercing damage plus their strength modifier. They are proficient with this attack. This attack can also transmit lycanthropy if the target fails a DC 12 Constitution saving throw. On a hit against a creature, the target must succeed on a DC 13 Strength saving throw or be knocked prone.
 \paragraph*{Pack Tactics} If they have an ally within 5 feet of their target, they have advantage on attack rolls against that target.
 \paragraph*{Wilderness Survival} The werewolf has advantage on Wisdom (Survival) checks and on Wisdom (Perception) checks made in natural environments.
+
+\section*{Blood Inheritance}
+
+The five forms described above are numbered 1 through 5, from Humanoid to Animal.
+Hybrid --- form 3 --- is the middle point, and it is the form a werewolf offspring will naturally inhabit.
+This numbering is the key to how hereditary lycanthropy passes from parent to child.\par
+
+When one parent is a hereditary werewolf and the other is an ordinary Medium humanoid, the werewolf parent rolls a d4 at the time of the child's birth.
+The result maps directly onto the form spectrum.
+
+\begin{DndTable}[header=One Werewolf Parent (roll 1d4)]{XX}
+    d4 & Offspring \\
+    1  & \textbf{Humanoid.} No lycanthropic traits. The child follows the non-werewolf parent's lineage entirely. \\
+    2  & \textbf{Shifter.} Partial inheritance. The child is born with Shifter traits and is part of the bloodline but cannot take the Werewolf Class. \\
+    3  & \textbf{Werewolf.} Full hereditary lycanthropy. The child will manifest at the passage into adulthood. \\
+    4  & \textbf{Dire Wolf.} Born in and locked to Dire Form. Unable to shift or speak. The tribe raises them as a dire wolf within the pack. \\
+\end{DndTable}
+
+When both parents are hereditary werewolves, each rolls a d4 and they add the results.
+The sum maps to the same spectrum --- but the minimum result is 2, and any result of 5 or higher produces a wolf pup born wholly in Animal Form.
+This means two werewolf parents are \emph{less} likely to produce a werewolf offspring than one werewolf and a human.
+
+\begin{DndTable}[header=Two Werewolf Parents (roll 2d4, add results)]{XX}
+    2d4 & Offspring \\
+    2   & \textbf{Shifter.} (1 in 16 chance) Partial inheritance. \\
+    3   & \textbf{Werewolf.} (2 in 16 chance) Full hereditary lycanthropy. \\
+    4   & \textbf{Dire Wolf.} (3 in 16 chance) Born in Dire Form; raised as a dire wolf by the pack. \\
+    5–8 & \textbf{Wolf Pup.} (10 in 16 chance) Born in Animal Form. Cannot shift. Raised as an ordinary wolf. \\
+\end{DndTable}
+
+A werewolf offspring always inherits the moon of the werewolf parent.
+If both parents are werewolves of different moons, the child's moon is determined by whichever of the two moons is fullest at the moment of birth.
+
+A humanoid with contracted lycanthropy counts as an ordinary humanoid for purposes of blood inheritance --- not as a hereditary werewolf.
+Only hereditary lycanthropy passes through the bloodline; the contracted curse does not.
+
+\begin{DndSidebar}[float=!b]{The Paradox of Pure Blood}
+    The numbers above are not accidental.
+    With one werewolf parent, the chance of a werewolf offspring is 1 in 4 (25\%).
+    With two werewolf parents, it falls to 2 in 16 (12.5\%).
+    Two werewolves together are half as likely to produce a werewolf child as one werewolf and a human.
+
+    This mirrors a theme from \emph{Werewolf: the Apocalypse}: the Garou who breed only among themselves tend to produce damaged or diminished offspring.
+    Here the consequence is structural rather than cosmetic --- the bloodline needs humans.
+    Werewolves who withdraw entirely from human society will, across generations, produce more wolves than werewolves.
+    Their pack thins.
+    Their tribe contracts.
+
+    Most tribes therefore discourage werewolf--werewolf pairings not out of sentiment but out of pragmatic necessity.
+    The tribe's continuity depends on maintaining bonds with the humanoid communities it is sworn to protect --- and those bonds must be forged in blood as well as custom.
+
+    Dravago is the notable exception.
+    Wolf pups born of Dravago lineage are welcomed rather than mourned.
+    The Handling moon's werewolves see no diminishment in a child born wholly wolf --- only a different kind of packmate.
+\end{DndSidebar}
 
 \section*{Involuntary Shifting}
 Contracted lycanthropes must shift into their Hybrid form during a full moon - only the moon that they are influenced under, not all twelve.

@@ -23,7 +23,6 @@
 
 ## Structural Issues
 
-- [ ] **Hereditary Lycanthropy rules section** — The subsection currently defers the probability rules to "a later section" that does not yet exist. Write that section: probability of inheritance from one werewolf parent, what happens when both parents are werewolves, whether the child's moon must match the werewolf parent's, and edge cases (dormant bloodlines, werewolf grandparent, etc.).
 - [ ] "Speak with Animals Anytime" (Dravago) has a broken prerequisite — says `Speak with Animals II` but the feature is called `Speak with Animals, Advanced`. Fix the prerequisite text.
 - [ ] Contracted Lycanthropy sidebar: "can access to the feats below" — fix grammar ("can access the feats") and update the cross-reference to point to the Feats section by name, not vaguely "below."
 - [ ] Barrakas intro text is outdated — still says "in non-humanoid forms" for Keen Hearing, but Keen Hearing was restricted to Dire and Animal forms only. Update to "in Dire and Animal forms."
