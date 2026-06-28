@@ -59,6 +59,12 @@ The following moon sections have no prose introduction — they read as bare fea
 
 ---
 
+## Dyrrn the Corruptor
+
+- [ ] **Feats and features for Dyrrn-blooded werewolves** — Characters who receive the blood transformation through Dyrrn the Corruptor should have distinct mechanical options reflecting their Xoriat-tainted nature rather than a moon bond. Candidates: aberrant sensory features (see through illusions, detect aberrations), psychic damage on bite, resistance to madness/confusion effects, or a daelkyr-flavored equivalent of Moon Features. Decide whether Dyrrn-blooded werewolves choose a moon (corrupted version) or have an entirely separate feature track.
+
+---
+
 ## Mechanical Gaps
 
 - [ ] **Feral Surge stacking** — The Hybrid Form's Feral Surge (+2/+3/+4 to claw/bite attack and damage) stacks with Magic Claw/Bite (+1/+2/+3). This is probably intentional (Olarune or Eyre players get a very high bonus at high levels) but should be stated explicitly: "These bonuses stack."
