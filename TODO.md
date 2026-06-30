@@ -37,7 +37,6 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 ## Structural Issues
 
 - [ ] "Speak with Animals Anytime" (Dravago) has a broken prerequisite — says `Speak with Animals II` but the feature is called `Speak with Animals, Advanced`. Fix the prerequisite text.
-- [ ] Contracted Lycanthropy sidebar: "can access to the feats below" — fix grammar ("can access the feats") and update the cross-reference to point to the Feats section by name, not vaguely "below."
 - [ ] Barrakas intro text is outdated — still says "in non-humanoid forms" for Keen Hearing, but Keen Hearing was restricted to Dire and Animal forms only. Update to "in Dire and Animal forms."
 - [ ] Dravago writing prompt mismatch — "Bone Gnawers (urban survivors, poverty, adaptability, resilience)" describes an urban W:tA tribe. Dravago's actual features are all animal handling, pack leadership, and wilderness summoning. Replace the writing prompt or rethink the section's identity around Handling + Risia (stagnation, preservation, animal bonds).
 
@@ -48,7 +47,7 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 - [ ] **Sypheros (3 features)** — dramatically thin. The Mabar/shadow theme has room for: *Darkness* spell, Devil's Sight (see through magical darkness), *Nondetection*, *Fear* spell, a dread aura, or shadow-based teleportation. Even 3–4 more features would bring it up to minimum viable.
 - [ ] **Crya (2 features)** — Pass without Trace is identical to Sypheros's entry 1; Crya needs features that feel lost/dreamlike/death-adjacent. Candidates: *Dream* spell, *Speak with Dead*, something from the Mark of Death tradition (healing as death-control, seeing the recently departed), or Dal'Quor-flavored psychic abilities. Even 2–3 more features would give DMs something to work with.
 - [ ] **Nymm (4 features)** — TODO already in document. Daanvi/Perfect Order + Silver Fangs (aristocratic rulership) suggests: *Frightful Presence*, *Compelled Duel*, immunity to the Hybrid Form's Frenzy condition (Nymm's clarity suppresses it), or an aura that grants nearby allies advantage on involuntary shifting saves. Note: Nymm werewolves in Hybrid are already immune to charmed/frightened — clarify whether this immunity also suppresses the Frenzy mechanic (Frenzy is neither charmed nor frightened, so currently it does not).
-- [ ] **Eyre (6 features)** — TODO already in document. Fire immunity in Hybrid (upgrade from resistance) is the obvious addition. Urban/artifice theme (Iron Masters/Glass Walkers): *Detect Thoughts* in humanoid form, *Fabricate*, or something that reflects their comfort inside cities and relationship with tools and fire.
+- [ ] **Eyre (6 features)** — TODO already in document. Fire immunity in Hybrid (upgrade from resistance) is the obvious addition. Urban/artifice theme (Iron Masters/Glass Walkers): *Detect Thoughts* in humanoid form, *Fabricate*, or something that reflects their comfort inside cities and relationship with tools and fire. (Look at the Glass Walkers gifts and artificer abilities for inspiration.)
 - [ ] **Vult (5 features)** — Low count for a warrior/guardian moon. Shavarath (the Battleground) suggests: *Spiritual Weapon*, *Crusader's Mantle*, *Stoneskin* (battlefield endurance), or a feature tied to holding ground (advantage on saves against being moved or knocked prone).
 
 ---
