@@ -1,6 +1,3 @@
-- [ ] Create a starter paragraph
-- [ ] Think about the other lycanthropes — Baker identifies five other lycanthrope types beyond werewolves: **wererats** (urban, psychological warfare, Stormreach/Boromar Clan ties), **werebears** (protective, solitary, nature-aligned but distinct from the werewolf guardian tradition), **weretigers** (rare, solitary, not pack-based — no twelve-tribe equivalent), **wereboars** (aggressive, territorial), and exotic types like **Puppeteers** (one consciousness controlling a whole pack) and **Skinweavers** (pelt-based transformation, requires blood sacrifice). These do not belong to the twelve-moon framework and would need their own rules section. Key questions: do they use the same five forms? Are they moon-affected? What is their bane material (byeshk for daelkyr strains, silver for Wild Heart strains, wood for nature-aligned)? Do they have hereditary/contracted variants? A "Other Lycanthropes" chapter stub should be added, even if initially just notes.
-
 
 | Moon      | Mark         | Available Features                                                                                                                                                                       | Count | Tribe Passive                                      |
 |-----------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----------------------------------------------------|
@@ -17,6 +14,22 @@
 | Aryth     | Passage      | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride, Freedom of Movement, Preternatural Speed                                      | 8     | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps                                                                                                 | 5     | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Pass without Trace, Wither and Bloom                                                                                                                                                     | 2     | —                                                  |
+
+
+---
+
+## Other Lycanthropes
+Baker identifies five other lycanthrope types beyond werewolves:
+
+**wererats** (urban, psychological warfare, Stormreach/Boromar Clan ties),
+**werebears** (protective, solitary, nature-aligned but distinct from the werewolf guardian tradition),
+**weretigers** (rare, solitary, not pack-based — no twelve-tribe equivalent),
+**wereboars** (aggressive, territorial), and exotic types like
+**Puppeteers** (one consciousness controlling a whole pack) and
+**Skinweavers** (pelt-based transformation, requires blood sacrifice). These do not belong to the twelve-moon framework and would need their own rules section. Key questions: do they use the same five forms? Are they moon-affected? What is their bane material (byeshk for daelkyr strains, silver for Wild Heart strains, wood for nature-aligned)? Do they have hereditary/contracted variants? A "Other Lycanthropes" chapter stub should be added, even if initially just notes.
+
+They also correspond somewhat to the White Wolf books. Consider Anansi.
+
 
 
 ---
