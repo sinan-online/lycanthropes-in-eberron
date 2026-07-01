@@ -1,8 +1,8 @@
 
 | Moon      | Mark         | Associated Plane                | Available Features                                                                                                                                                                       | Count | Tribe Passive                                      |
 |-----------|--------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----------------------------------------------------|
-| Zarantyr  | Storm        | Kythri, the Churning Chaos       | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II, Multiattack, Multiattack Greater             | 10    | Advantage on Intimidation (all forms)              |
-| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | Pack Guardian, Humanoid Pack Guardian, Magic Claw, Magic Bite, Entangle, Entangle Expanded, Plant Growth, Freedom of Movement, Wrath of Nature, Commune with Nature, Wall of Thorns    | 11    | —                                                  |
+| Zarantyr  | Storm        | Kythri, the Churning Chaos       | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II, Multiattack, Multiattack Greater, Resistance to Thunder, Humanoid Resistance to Thunder, Resistance to Lightning, Humanoid Resistance to Lightning | 14    | Advantage on Intimidation (all forms)              |
+| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | Pack Guardian, Humanoid Pack Guardian, Magic Claw, Magic Bite, Entangle, Entangle Expanded, Plant Growth, Freedom of Movement, Wrath of Nature, Commune with Nature, Wall of Thorns, Resistance to Poison, Humanoid Resistance to Poison | 13    | —                                                  |
 | Therendor | Healing      | Syrania, the Azure Sky           | Healing Howl, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison, Lesser Restoration, Scent of Poison and Disease, Scent of Poison and Disease Expanded, Greater Restoration        | 9     | Temp HP (level + CON mod) on entering Hybrid       |
 | Eyre      | Making       | Fernia, the Sea of Fire          | Resistance to Fire, Humanoid Resistance to Fire, Fire Claw, Fire Bite, Heat Metal, Mending                                                                                              | 6     | Control Flames + Create Bonfire at will (all forms)|
 | Dravago   | Handling     | Risia, the Plain of Ice          | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast, Summon Beast Expanded, Summon Pack, Summon Pack Expanded, Awaken Wolf, Ice Claw, Ice Bite, Resistance to Cold, Humanoid Resistance to Cold | 14    | —                                                  |
@@ -13,7 +13,7 @@
 | Sypheros  | Shadow       | Mabar, the Endless Night         | Cunning Action, Pass without Trace, Pass without Trace Expanded, Darkness, Devil's Sight, Resistance to Necrotic Damage, Humanoid Resistance to Necrotic Damage, Shadow Step             | 8     | —                                                  |
 | Aryth     | Passage      | Dolurrh, the Realm of the Dead   | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride, Freedom of Movement, Preternatural Speed                                      | 8     | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Shavarath, the Battleground      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps, Barbed Hide, Quill Ward                                                                        | 7     | Pack Tactics (all forms)                           |
-| Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | Pass without Trace, Wither and Bloom                                                                                                                                                     | 2     | —                                                  |
+| Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | Pass without Trace, Wither and Bloom                                                                                                                                                     | 2     | Immune to sleep (all forms)                        |
 
 
 ---
@@ -36,19 +36,15 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 
 ## Structural Issues
 
-- [ ] "Speak with Animals Anytime" (Dravago) has a broken prerequisite — says `Speak with Animals II` but the feature is called `Speak with Animals, Advanced`. Fix the prerequisite text.
 - [ ] Barrakas intro text is outdated — still says "in non-humanoid forms" for Keen Hearing, but Keen Hearing was restricted to Dire and Animal forms only. Update to "in Dire and Animal forms."
-- [ ] Dravago writing prompt mismatch — "Bone Gnawers (urban survivors, poverty, adaptability, resilience)" describes an urban W:tA tribe. Dravago's actual features are all animal handling, pack leadership, and wilderness summoning. Replace the writing prompt or rethink the section's identity around Handling + Risia (stagnation, preservation, animal bonds).
 
 ---
 
 ## Thin Sections Needing Features
 
-- [ ] **Sypheros (8 features)** — *Darkness*, Devil's Sight, Resistance to Necrotic Damage, and Shadow Step added; no longer thin. Remaining Mabar/shadow candidates if more depth is wanted: *Nondetection*, *Fear* spell, or a dread/intimidation aura (Shadow Lords theme).
-- [ ] **Crya (2 features)** — Pass without Trace is identical to Sypheros's entry 1; Crya needs features that feel lost/dreamlike/death-adjacent. Candidates: *Dream* spell, *Speak with Dead*, something from the Mark of Death tradition (healing as death-control, seeing the recently departed), or Dal'Quor-flavored psychic abilities. Even 2–3 more features would give DMs something to work with.
-- [ ] **Nymm (4 features)** — TODO already in document. Daanvi/Perfect Order + Silver Fangs (aristocratic rulership) suggests: *Frightful Presence*, *Compelled Duel*, immunity to the Hybrid Form's Frenzy condition (Nymm's clarity suppresses it), or an aura that grants nearby allies advantage on involuntary shifting saves. Note: Nymm werewolves in Hybrid are already immune to charmed/frightened — clarify whether this immunity also suppresses the Frenzy mechanic (Frenzy is neither charmed nor frightened, so currently it does not).
-- [ ] **Eyre (6 features)** — TODO already in document. Fire immunity in Hybrid (upgrade from resistance) is the obvious addition. Urban/artifice theme (Iron Masters/Glass Walkers): *Detect Thoughts* in humanoid form, *Fabricate*, or something that reflects their comfort inside cities and relationship with tools and fire. (Look at the Glass Walkers gifts and artificer abilities for inspiration.)
-- [ ] **Vult (7 features)** — Barbed Hide and Quill Ward added (porcupine/retaliatory-damage theme). Remaining Shavarath candidates: *Spiritual Weapon*, *Crusader's Mantle*, *Stoneskin*, or advantage on saves against being moved or knocked prone.
+- [ ] **Crya (2 features)** — Intentionally sparse as the lost moon, but still needs more. Pass without Trace duplicates Sypheros. Candidates: *Dream* spell, *Speak with Dead*, something from the Mark of Death tradition, or Dal'Quor-flavored psychic abilities.
+- [ ] **Nymm (5 features)** — Commanding Presence added. Still the thinnest active moon. Remaining Daanvi/Silver Fangs candidates: *Frightful Presence*, *Compelled Duel*, an aura that grants nearby allies advantage on involuntary shifting saves, or clarification on whether Nymm's charmed/frightened immunity also suppresses Frenzy (currently it does not, since Frenzy is neither).
+- [ ] **Eyre (6 features)** — Fire immunity in Hybrid (upgrade from resistance) is the obvious next step. Urban/artifice theme (Iron Masters/Glass Walkers): *Detect Thoughts* in humanoid form, *Fabricate*, or something that reflects comfort inside cities and relationship with tools. (Look at Glass Walkers gifts and artificer abilities for inspiration.)
 
 ---
 
@@ -92,9 +88,7 @@ The following tribes currently have no tribe-wide passive. Suggestions for balan
 
 | Moon | Suggested Passive |
 |------|-------------------|
-| Zarantyr | Resistance to thunder damage (all forms, passive) |
 | Olarune | Cannot be knocked prone in Dire and Animal forms (passive) |
-| Dravago | Passively understand animal speech without expending uses (all forms, always on) |
 | Lharvion | Advantage on Initiative rolls (all forms, passive) |
 | Rhaan | Passively understand Sylvan and the speech of fey creatures (all forms, always on) |
 | Sypheros | Advantage on Stealth checks in dim light or darkness (all forms, passive) |
