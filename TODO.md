@@ -10,10 +10,10 @@
 | Lharvion  | Detection    | Xoriat, the Realm of Madness     | Darkvision, Advanced Darkvision, Scent the Arcane, Scent the Arcane Humanoid, Detect Thoughts, Detect Thoughts Expanded, Scent of Poison and Disease, Scent of Poison and Disease Expanded | 8  | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | Beast Sense, Beast Sense Advanced, Scent Animals or Plants, Scent Object, Scent Creature, Hunter's Mark, Hunter's Mark Advanced, Humanoid Hunter's Mark                                 | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | Speak with Animals, Speak with Animals Expanded, Moonbeam, Speak with Plants, Summon Fey, Summon Fey Expanded, Conjure Woodland Beings, Conjure Woodland Beings Expanded               | 8     | —                                                  |
-| Sypheros  | Shadow       | Mabar, the Endless Night         | Cunning Action, Pass without Trace, Pass without Trace Expanded, Darkness, Devil's Sight, Resistance to Necrotic Damage, Humanoid Resistance to Necrotic Damage, Shadow Step             | 8     | —                                                  |
+| Sypheros  | Shadow       | Mabar, the Endless Night         | Cunning Action, Pass without Trace, Pass without Trace Expanded, Darkness, Devil's Sight, Resistance to Necrotic Damage, Humanoid Resistance to Necrotic Damage, Shadow Step             | 8     | Frightful Presence on Hybrid shift (Wis save)      |
 | Aryth     | Passage      | Dolurrh, the Realm of the Dead   | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride, Freedom of Movement, Preternatural Speed                                      | 8     | +10ft speed in Hybrid                              |
-| Vult      | Warding      | Shavarath, the Battleground      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps, Barbed Hide, Quill Ward                                                                        | 7     | Pack Tactics (all forms)                           |
-| Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | Pass without Trace, Wither and Bloom                                                                                                                                                     | 2     | Immune to sleep (all forms)                        |
+| Vult      | Warding      | Shavarath, the Battleground      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps, Barbed Hide, Quill Ward, Iron Hide, Stone Hide                                                 | 9     | Pack Tactics (all forms)                           |
+| Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | Pass without Trace, Wither and Bloom, Resistance to Psychic, Humanoid Resistance to Psychic, Dream                                                                                       | 5     | Immune to sleep + telepathy 60ft (all forms)       |
 
 
 ---
@@ -42,7 +42,7 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 
 ## Thin Sections Needing Features
 
-- [ ] **Crya (2 features)** — Intentionally sparse as the lost moon, but still needs more. Pass without Trace duplicates Sypheros. Candidates: *Dream* spell, *Speak with Dead*, something from the Mark of Death tradition, or Dal'Quor-flavored psychic abilities.
+- [ ] **Crya (5 features)** — Psychic resistance pair and *Dream* added; telepathy and sleep immunity as passives. No longer critically thin. Remaining candidates: *Speak with Dead* (Mark of Death angle), or additional Dal'Quor-flavored psychic features.
 - [ ] **Nymm (5 features)** — Commanding Presence added. Still the thinnest active moon. Remaining Daanvi/Silver Fangs candidates: *Frightful Presence*, *Compelled Duel*, an aura that grants nearby allies advantage on involuntary shifting saves, or clarification on whether Nymm's charmed/frightened immunity also suppresses Frenzy (currently it does not, since Frenzy is neither).
 - [ ] **Eyre (6 features)** — Fire immunity in Hybrid (upgrade from resistance) is the obvious next step. Urban/artifice theme (Iron Masters/Glass Walkers): *Detect Thoughts* in humanoid form, *Fabricate*, or something that reflects comfort inside cities and relationship with tools. (Look at Glass Walkers gifts and artificer abilities for inspiration.)
 
