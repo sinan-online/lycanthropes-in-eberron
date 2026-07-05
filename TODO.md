@@ -10,7 +10,7 @@
 | Lharvion  | Detection    | Xoriat, the Realm of Madness     | Darkvision, Advanced Darkvision, Scent the Arcane, Scent the Arcane Humanoid, Detect Thoughts, Detect Thoughts Expanded, Scent of Poison and Disease, Scent of Poison and Disease Expanded | 8  | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | Beast Sense, Beast Sense Advanced, Scent Animals or Plants, Scent Object, Scent Creature, Hunter's Mark, Hunter's Mark Advanced, Humanoid Hunter's Mark                                 | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | Speak with Animals, Speak with Animals Expanded, Moonbeam, Speak with Plants, Summon Fey, Summon Fey Expanded, Conjure Woodland Beings, Conjure Woodland Beings Expanded               | 8     | —                                                  |
-| Sypheros  | Shadow       | Mabar, the Endless Night         | Cunning Action, Pass without Trace, Pass without Trace Expanded, Darkness, Devil's Sight, Resistance to Necrotic Damage, Humanoid Resistance to Necrotic Damage, Shadow Step             | 8     | Frightful Presence on Hybrid shift (Wis save)      |
+| Sypheros  | Shadow       | Mabar, the Endless Night         | Cunning Action, Pass without Trace, Pass without Trace Expanded, Darkness, Devil's Sight, Resistance to Necrotic, Humanoid Resistance to Necrotic, Shadow Step             | 8     | Frightful Presence on Hybrid shift (Wis save)      |
 | Aryth     | Passage      | Dolurrh, the Realm of the Dead   | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride, Freedom of Movement, Preternatural Speed                                      | 8     | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Shavarath, the Battleground      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps, Barbed Hide, Quill Ward, Iron Hide, Stone Hide                                                 | 9     | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | Pass without Trace, Wither and Bloom, Resistance to Psychic, Humanoid Resistance to Psychic, Dream                                                                                       | 5     | Immune to sleep + telepathy 60ft (all forms)       |
@@ -36,7 +36,7 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 
 ## Structural Issues
 
-- [ ] Barrakas intro text is outdated — still says "in non-humanoid forms" for Keen Hearing, but Keen Hearing was restricted to Dire and Animal forms only. Update to "in Dire and Animal forms."
+No outstanding structural issues.
 
 ---
 
@@ -50,13 +50,7 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 
 ## Missing Narrative Intros
 
-The following moon sections have no prose introduction — they read as bare feature lists. Each needs 2–4 sentences describing who these werewolves are, where they live, and what role they play among the twelve tribes.
-
-- [ ] **Zarantyr** — first moon section a reader encounters; Storm Lords / Kythri (Churning Chaos) theme. Authority, wrath, rulership. Storm-aligned, likely territorial and aggressive.
-- [ ] **Dravago** — Handling / Risia. What does an ice-and-stagnation moon mean for werewolves who control animals and summon packs? Their identity is currently defined only by features.
-- [ ] **Lharvion** — Detection / Xoriat. After removing the Blood Talons prompt, there is nothing. Xoriat-aligned werewolves are a compelling concept (detection, madness-adjacent, retrograde orbit) with no prose to support it.
-- [ ] **Barrakas** — Finding / Irian. One sentence about Keen Hearing exists. The Silent Striders (wanderers, messengers, exile) prompt suggests a tribe of far-ranging scouts — nothing in the document explores this.
-- [ ] **Nymm** — Hospitality / Daanvi. The immunity paragraph is mechanical. No sense of who these werewolves are socially or what the Silver Fangs archetype means for them in Eberron.
+All thirteen moon sections now have prose introductions. No outstanding items.
 
 ---
 
