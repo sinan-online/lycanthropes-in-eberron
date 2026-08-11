@@ -2,7 +2,7 @@
 | Moon      | Mark         | Associated Plane                | Available Features                                                                                                                                                                       | Count | Tribe Passive                                      |
 |-----------|--------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----------------------------------------------------|
 | Zarantyr  | Storm        | Kythri, the Churning Chaos       | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II, Multiattack, Multiattack Greater, Resistance to Thunder, Humanoid Resistance to Thunder, Resistance to Lightning, Humanoid Resistance to Lightning | 14    | Advantage on Intimidation (all forms)              |
-| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | Pack Guardian, Humanoid Pack Guardian, Magic Claw, Magic Bite, Entangle, Entangle Expanded, Plant Growth, Freedom of Movement, Wrath of Nature, Commune with Nature, Wall of Thorns, Resistance to Poison, Humanoid Resistance to Poison | 13    | —                                                  |
+| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | Pack Guardian, Humanoid Pack Guardian, Magic Claw, Magic Bite, Entangle, Entangle Expanded, Plant Growth, Freedom of Movement, Wrath of Nature, Commune with Nature, Wall of Thorns, Resistance to Poison, Humanoid Resistance to Poison | 13    | Cannot be surprised (Hybrid/Dire/Animal); Perception adv. vs. hidden (all forms) |
 | Therendor | Healing      | Syrania, the Azure Sky           | Healing Howl, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison, Lesser Restoration, Scent of Poison and Disease, Scent of Poison and Disease Expanded, Greater Restoration        | 9     | Temp HP (level + CON mod) on entering Hybrid       |
 | Eyre      | Making       | Fernia, the Sea of Fire          | Resistance to Fire, Humanoid Resistance to Fire, Fire Claw, Fire Bite, Heat Metal, Mending                                                                                              | 6     | Control Flames + Create Bonfire at will (all forms)|
 | Dravago   | Handling     | Risia, the Plain of Ice          | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast, Summon Beast Expanded, Summon Pack, Summon Pack Expanded, Awaken Wolf, Ice Claw, Ice Bite, Resistance to Cold, Humanoid Resistance to Cold | 14    | —                                                  |
@@ -82,7 +82,7 @@ The following tribes currently have no tribe-wide passive. Suggestions for balan
 
 | Moon | Suggested Passive |
 |------|-------------------|
-| Olarune | Cannot be knocked prone in Dire and Animal forms (passive) |
+| Olarune | ~~Cannot be knocked prone in Dire and Animal forms~~ → **Warden's Alertness** implemented: cannot be surprised (Hybrid/Dire/Animal); advantage on Perception vs. hidden creatures (all forms) |
 | Lharvion | Advantage on Initiative rolls (all forms, passive) |
 | Rhaan | Passively understand Sylvan and the speech of fey creatures (all forms, always on) |
 | Sypheros | Advantage on Stealth checks in dim light or darkness (all forms, passive) |
