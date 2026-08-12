@@ -10,7 +10,7 @@
 | Lharvion  | Detection    | Xoriat, the Realm of Madness     | 8  | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | —                                                  |
-| Sypheros  | Shadow       | Mabar, the Endless Night         | 8     | Frightful Presence on Hybrid shift (Wis save)      |
+| Sypheros  | Shadow       | Mabar, the Endless Night         | 10    | Frightful Presence on Hybrid shift (Wis save)      |
 | Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 8     | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Shavarath, the Battleground      | 9     | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | 5     | Immune to sleep + telepathy 60ft (all forms)       |
