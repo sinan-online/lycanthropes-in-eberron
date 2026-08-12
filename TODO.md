@@ -2,12 +2,12 @@
 | Moon      | Mark         | Associated Plane                | Count | Tribe Passive                                      |
 |-----------|--------------|----------------------------------|-------|----------------------------------------------------|
 | Zarantyr  | Storm        | Kythri, the Churning Chaos       | 14    | Advantage on Intimidation (all forms)              |
-| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | 13    | Cannot be surprised (Hybrid/Dire/Animal); Perception adv. vs. hidden (all forms) |
+| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | 17    | Cannot be surprised (Hybrid/Dire/Animal); Perception adv. vs. hidden (all forms) |
 | Therendor | Healing      | Syrania, the Azure Sky           | 9     | Temp HP (level + CON mod) on entering Hybrid       |
-| Eyre      | Making       | Fernia, the Sea of Fire          | 6     | Control Flames + Create Bonfire at will (all forms)|
-| Dravago   | Handling     | Risia, the Plain of Ice          | 14    | —                                                  |
-| Nymm      | Hospitality  | Daanvi, the Perfect Order        | 5     | Immune to charmed + frightened in Hybrid           |
-| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 8  | —                                                  |
+| Eyre      | Making       | Fernia, the Sea of Fire          | 9     | Control Flames + Create Bonfire at will (all forms)|
+| Dravago   | Handling     | Risia, the Plain of Ice          | 16    | —                                                  |
+| Nymm      | Hospitality  | Daanvi, the Perfect Order        | 6     | Immune to charmed + frightened in Hybrid           |
+| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 9  | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | —                                                  |
 | Sypheros  | Shadow       | Mabar, the Endless Night         | 10    | Frightful Presence on Hybrid shift (Wis save)      |
