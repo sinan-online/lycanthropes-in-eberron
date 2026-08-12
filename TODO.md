@@ -6,8 +6,8 @@
 | Therendor | Healing      | Syrania, the Azure Sky           | 9     | Temp HP (level + CON mod) on entering Hybrid       |
 | Eyre      | Making       | Fernia, the Sea of Fire          | 9     | Control Flames + Create Bonfire at will (all forms)|
 | Dravago   | Handling     | Risia, the Plain of Ice          | 16    | —                                                  |
-| Nymm      | Hospitality  | Daanvi, the Perfect Order        | 6     | Immune to charmed + frightened in Hybrid           |
-| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 9  | —                                                  |
+| Nymm      | Hospitality  | Daanvi, the Perfect Order        | 9     | Immune to charmed + frightened in Hybrid           |
+| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 11 | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | —                                                  |
 | Sypheros  | Shadow       | Mabar, the Endless Night         | 10    | Frightful Presence on Hybrid shift (Wis save)      |
