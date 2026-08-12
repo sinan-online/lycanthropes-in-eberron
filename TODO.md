@@ -1,19 +1,19 @@
 
-| Moon      | Mark         | Associated Plane                | Available Features                                                                                                                                                                       | Count | Tribe Passive                                      |
-|-----------|--------------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|----------------------------------------------------|
-| Zarantyr  | Storm        | Kythri, the Churning Chaos       | Howl to Zarantyr, Thunderwave, Thunderwave II, Human Thunderwave, Thunderous Claw, Thunderous Claw II, Thunderous Bite, Thunderous Bite II, Multiattack, Multiattack Greater, Resistance to Thunder, Humanoid Resistance to Thunder, Resistance to Lightning, Humanoid Resistance to Lightning | 14    | Advantage on Intimidation (all forms)              |
-| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | Pack Guardian, Humanoid Pack Guardian, Magic Claw, Magic Bite, Entangle, Entangle Expanded, Plant Growth, Freedom of Movement, Wrath of Nature, Commune with Nature, Wall of Thorns, Resistance to Poison, Humanoid Resistance to Poison | 13    | Cannot be surprised (Hybrid/Dire/Animal); Perception adv. vs. hidden (all forms) |
-| Therendor | Healing      | Syrania, the Azure Sky           | Healing Howl, Lick Wounds, Lick Wounds II, Heal Wounds, Suck Poison, Lesser Restoration, Scent of Poison and Disease, Scent of Poison and Disease Expanded, Greater Restoration        | 9     | Temp HP (level + CON mod) on entering Hybrid       |
-| Eyre      | Making       | Fernia, the Sea of Fire          | Resistance to Fire, Humanoid Resistance to Fire, Fire Claw, Fire Bite, Heat Metal, Mending                                                                                              | 6     | Control Flames + Create Bonfire at will (all forms)|
-| Dravago   | Handling     | Risia, the Plain of Ice          | Speak with Animals, Speak with Animals Advanced, Humanoid Speak with Animals, Speak with Animals Anytime, Animal Messenger, Summon Beast, Summon Beast Expanded, Summon Pack, Summon Pack Expanded, Awaken Wolf, Ice Claw, Ice Bite, Resistance to Cold, Humanoid Resistance to Cold | 14    | —                                                  |
-| Nymm      | Hospitality  | Daanvi, the Perfect Order        | Soothing Howl, Hybrid Form Soothing Howl, Humanoid Soothing Howl, Aura of Purity, Commanding Presence                                                                                   | 5     | Immune to charmed + frightened in Hybrid           |
-| Lharvion  | Detection    | Xoriat, the Realm of Madness     | Darkvision, Advanced Darkvision, Scent the Arcane, Scent the Arcane Humanoid, Detect Thoughts, Detect Thoughts Expanded, Scent of Poison and Disease, Scent of Poison and Disease Expanded | 8  | —                                                  |
-| Barrakas  | Finding      | Irian, the Eternal Dawn          | Beast Sense, Beast Sense Advanced, Scent Animals or Plants, Scent Object, Scent Creature, Hunter's Mark, Hunter's Mark Advanced, Humanoid Hunter's Mark                                 | 8     | Keen Hearing & Smell (all forms)                   |
-| Rhaan     | Scribing     | Thelanis, the Faerie Court       | Speak with Animals, Speak with Animals Expanded, Moonbeam, Speak with Plants, Summon Fey, Summon Fey Expanded, Conjure Woodland Beings, Conjure Woodland Beings Expanded               | 8     | —                                                  |
-| Sypheros  | Shadow       | Mabar, the Endless Night         | Cunning Action, Pass without Trace, Pass without Trace Expanded, Darkness, Devil's Sight, Resistance to Necrotic, Humanoid Resistance to Necrotic, Shadow Step             | 8     | Frightful Presence on Hybrid shift (Wis save)      |
-| Aryth     | Passage      | Dolurrh, the Realm of the Dead   | Longstrider, Humanoid Longstrider, Longstrider Advanced, Spider Climb, Spider Climb Advanced, Tree Stride, Freedom of Movement, Preternatural Speed                                      | 8     | +10ft speed in Hybrid                              |
-| Vult      | Warding      | Shavarath, the Battleground      | Warding Bond, Warding Bond Expanded, Mark Territory, Mark Territory Expanded, Find Traps, Barbed Hide, Quill Ward, Iron Hide, Stone Hide                                                 | 9     | Pack Tactics (all forms)                           |
-| Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | Pass without Trace, Wither and Bloom, Resistance to Psychic, Humanoid Resistance to Psychic, Dream                                                                                       | 5     | Immune to sleep + telepathy 60ft (all forms)       |
+| Moon      | Mark         | Associated Plane                | Count | Tribe Passive                                      |
+|-----------|--------------|----------------------------------|-------|----------------------------------------------------|
+| Zarantyr  | Storm        | Kythri, the Churning Chaos       | 14    | Advantage on Intimidation (all forms)              |
+| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | 13    | Cannot be surprised (Hybrid/Dire/Animal); Perception adv. vs. hidden (all forms) |
+| Therendor | Healing      | Syrania, the Azure Sky           | 9     | Temp HP (level + CON mod) on entering Hybrid       |
+| Eyre      | Making       | Fernia, the Sea of Fire          | 6     | Control Flames + Create Bonfire at will (all forms)|
+| Dravago   | Handling     | Risia, the Plain of Ice          | 14    | —                                                  |
+| Nymm      | Hospitality  | Daanvi, the Perfect Order        | 5     | Immune to charmed + frightened in Hybrid           |
+| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 8  | —                                                  |
+| Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
+| Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | —                                                  |
+| Sypheros  | Shadow       | Mabar, the Endless Night         | 8     | Frightful Presence on Hybrid shift (Wis save)      |
+| Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 8     | +10ft speed in Hybrid                              |
+| Vult      | Warding      | Shavarath, the Battleground      | 9     | Pack Tactics (all forms)                           |
+| Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | 5     | Immune to sleep + telepathy 60ft (all forms)       |
 
 
 ---
