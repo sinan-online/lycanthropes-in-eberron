@@ -81,8 +81,6 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 
 ## Mechanical Gaps
 
-- [ ] **Feral Surge stacking** — The Hybrid Form's Feral Surge (+2/+3/+4 to claw/bite attack and damage) stacks with Magic Claw/Bite, Fire Claw/Bite, and Ice Claw/Bite (+1/+2/+3). This is probably intentional (Olarune, Eyre, or Dravago players get a very high bonus at high levels) but should be stated explicitly: "These bonuses stack."
-- [ ] **Multiattack naming** — The Zarantyr feature is called "Multiattack" but in D&D 5e, Multiattack is a monster action; the player-facing equivalent is "Extra Attack." Consider noting that this feature functions like Extra Attack for the purposes of interactions with other features (e.g., spells that trigger on Extra Attack use).
 - [ ] **Involuntary shifting + Frenzy interaction** — If a Frenzy save fails and the werewolf shifts toward Animal Form, does this count as involuntary shifting for the purposes of the Involuntary Shifting rules? Clarify.
 
 ---
