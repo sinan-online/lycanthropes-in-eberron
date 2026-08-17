@@ -49,7 +49,7 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [x] Dravago
 - [x] Rhaan
 - [x] Sypheros
-- [ ] Zarantyr
+- [x] Zarantyr
 - [ ] Therendor
 - [ ] Nymm
 - [ ] Lharvion
