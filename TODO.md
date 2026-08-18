@@ -42,7 +42,7 @@ No outstanding structural issues.
 
 ## Structured Tribe Headers
 
-Which moons have the standard four-paragraph header (Common Locations / Origins / Passive Power & Traits / Why Should You Care?):
+Which moons have the standard four-paragraph header (Common Locations / Origins / Passive Power & Traits / Why Does It Matter?):
 
 - [x] Olarune
 - [x] Eyre
