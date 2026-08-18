@@ -58,6 +58,22 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [ ] Vult
 - [ ] Crya
 
+### Tribe Perspectives
+- [ ] Olarune
+- [ ] Eyre
+- [ ] Dravago
+- [ ] Rhaan
+- [ ] Sypheros
+- [ ] Zarantyr
+- [ ] Therendor
+- [ ] Nymm
+- [ ] Lharvion
+- [ ] Barrakas
+- [ ] Aryth
+- [ ] Vult
+- [ ] Crya
+
+
 ---
 
 ## Thin Sections Needing Features
@@ -70,12 +86,6 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 ## Duplicate Features
 
 - [ ] **Freedom of Movement** appears in both Olarune and Aryth — mechanically identical. Either differentiate them (Olarune version applies only in natural environments? Aryth version has shorter duration but no cost?) or acknowledge in a note that the mechanic is shared.
-
----
-
-## Dyrrn the Corruptor
-
-- [ ] **Feats and features for Dyrrn-blooded werewolves** — Characters who receive the blood transformation through Dyrrn the Corruptor should have distinct mechanical options reflecting their Xoriat-tainted nature rather than a moon bond. Candidates: aberrant sensory features (see through illusions, detect aberrations), psychic damage on bite, resistance to madness/confusion effects, or a daelkyr-flavored equivalent of Moon Features. Decide whether Dyrrn-blooded werewolves choose a moon (corrupted version) or have an entirely separate feature track.
 
 ---
 
