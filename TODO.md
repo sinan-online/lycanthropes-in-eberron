@@ -50,7 +50,7 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [x] Rhaan
 - [x] Sypheros
 - [x] Zarantyr
-- [ ] Therendor
+- [x] Therendor
 - [ ] Nymm
 - [ ] Lharvion
 - [ ] Barrakas
@@ -58,20 +58,6 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [ ] Vult
 - [ ] Crya
 
-### Tribe Perspectives
-- [ ] Olarune
-- [ ] Eyre
-- [ ] Dravago
-- [ ] Rhaan
-- [ ] Sypheros
-- [ ] Zarantyr
-- [ ] Therendor
-- [ ] Nymm
-- [ ] Lharvion
-- [ ] Barrakas
-- [ ] Aryth
-- [ ] Vult
-- [ ] Crya
 
 
 ---
