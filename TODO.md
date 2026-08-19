@@ -10,7 +10,7 @@
 | Lharvion  | Detection    | Xoriat, the Realm of Madness     | 11 | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | Fey Ancestry (Hybrid/Dire only)                    |
-| Sypheros  | Shadow       | Mabar, the Endless Night         | 11    | Frightful Presence on Hybrid shift (Wis save)      |
+| Sypheros  | Shadow       | Mabar, the Endless Night         | 12    | Frightful Presence on Hybrid shift (Wis save)      |
 | Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 9     | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Shavarath, the Battleground      | 9     | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | 5     | Immune to sleep + telepathy 60ft (all forms)       |
@@ -54,8 +54,8 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [ ] Nymm
 - [ ] Lharvion
 - [ ] Barrakas
-- [ ] Aryth
-- [ ] Vult
+- [x] Aryth
+- [x] Vult
 - [ ] Crya
 
 
