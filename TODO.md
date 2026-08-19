@@ -8,10 +8,10 @@
 | Dravago   | Handling     | Risia, the Plain of Ice          | 16    | —                                                  |
 | Nymm      | Hospitality  | Daanvi, the Perfect Order        | 9     | Immune to charmed + frightened in Hybrid           |
 | Lharvion  | Detection    | Xoriat, the Realm of Madness     | 11 | —                                                  |
-| Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
+| Barrakas  | Finding      | Irian, the Eternal Dawn          | 12    | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | Fey Ancestry (Hybrid/Dire only)                    |
 | Sypheros  | Shadow       | Mabar, the Endless Night         | 12    | Frightful Presence on Hybrid shift (Wis save)      |
-| Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 9     | +10ft speed in Hybrid                              |
+| Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 10    | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Shavarath, the Battleground      | 9     | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | 5     | Immune to sleep + telepathy 60ft (all forms)       |
 
@@ -65,7 +65,7 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 ## Thin Sections Needing Features
 
 - [ ] **Crya (5 features)** — still the thinnest moon by a wide margin (next lowest is 8). Remaining candidates: *Speak with Dead* (Mark of Death angle), or additional Dal'Quor-flavored psychic features.
-- [ ] **Barrakas, Rhaan (8 features each)** — the next-thinnest tier, well behind Olarune (17) and Dravago (16). No specific candidates identified yet.
+- [ ] **Rhaan (8 features)** — the next-thinnest tier, well behind Olarune (17) and Dravago (16). Candidates suggested: *Faerie Fire*, *Seeming*, *Geas*, *Modify Memory*; also considering a high-level transformation spell (*True Polymorph* recommended, *Seeming* as a lighter alternative) — awaiting confirmation.
 
 ---
 
