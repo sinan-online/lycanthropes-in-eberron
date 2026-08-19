@@ -10,8 +10,8 @@
 | Lharvion  | Detection    | Xoriat, the Realm of Madness     | 11 | —                                                  |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | 8     | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | Fey Ancestry (Hybrid/Dire only)                    |
-| Sypheros  | Shadow       | Mabar, the Endless Night         | 10    | Frightful Presence on Hybrid shift (Wis save)      |
-| Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 8     | +10ft speed in Hybrid                              |
+| Sypheros  | Shadow       | Mabar, the Endless Night         | 11    | Frightful Presence on Hybrid shift (Wis save)      |
+| Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 9     | +10ft speed in Hybrid                              |
 | Vult      | Warding      | Shavarath, the Battleground      | 9     | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | 5     | Immune to sleep + telepathy 60ft (all forms)       |
 
@@ -65,13 +65,7 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 ## Thin Sections Needing Features
 
 - [ ] **Crya (5 features)** — still the thinnest moon by a wide margin (next lowest is 8). Remaining candidates: *Speak with Dead* (Mark of Death angle), or additional Dal'Quor-flavored psychic features.
-- [ ] **Barrakas, Rhaan, Aryth (8 features each)** — the next-thinnest tier, well behind Olarune (17) and Dravago (16). No specific candidates identified yet.
-
----
-
-## Duplicate Features
-
-- [ ] **Freedom of Movement** appears in both Olarune and Aryth — mechanically identical. Either differentiate them (Olarune version applies only in natural environments? Aryth version has shorter duration but no cost?) or acknowledge in a note that the mechanic is shared.
+- [ ] **Barrakas, Rhaan (8 features each)** — the next-thinnest tier, well behind Olarune (17) and Dravago (16). No specific candidates identified yet.
 
 ---
 
