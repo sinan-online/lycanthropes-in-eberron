@@ -80,3 +80,5 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 ## Others
 - [ ] Add a box explaining why the tribes are not balanced.
 - [ ] I really need to do somethin about Sarlona, the Dreaming Dark and the Cyran werewolves.
+- [ ] Clarify that just touching silver does not detect a werewolf.
+- [ ] Rhaan werewolves need to get some sort of something related to Cold Iron. Maybe a way to substitute their vulnerability?
