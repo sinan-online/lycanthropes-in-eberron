@@ -2,17 +2,17 @@
 | Moon      | Mark         | Associated Plane                | Count | Tribe Passive                                      |
 |-----------|--------------|----------------------------------|-------|----------------------------------------------------|
 | Zarantyr  | Storm        | Kythri, the Churning Chaos       | 14    | Advantage on Intimidation (all forms)              |
-| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | 17    | Cannot be surprised (Hybrid/Dire/Animal); Perception adv. vs. hidden (all forms) |
+| Olarune   | Sentinel     | Lamannia, the Twilight Forest    | 19    | Cannot be surprised (Hybrid/Dire/Animal)           |
 | Therendor | Healing      | Syrania, the Azure Sky           | 9     | Temp HP (level + CON mod) on entering Hybrid       |
-| Eyre      | Making       | Fernia, the Sea of Fire          | 9     | Control Flames + Create Bonfire at will (all forms)|
-| Dravago   | Handling     | Risia, the Plain of Ice          | 16    | —                                                  |
+| Eyre      | Making       | Fernia, the Sea of Fire          | 10    | Control Flames + Create Bonfire at will (all forms)|
+| Dravago   | Handling     | Risia, the Plain of Ice          | 17    | —                                                  |
 | Nymm      | Hospitality  | Daanvi, the Perfect Order        | 9     | Immune to charmed + frightened in Hybrid           |
-| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 11 | —                                                  |
+| Lharvion  | Detection    | Xoriat, the Realm of Madness     | 11 | Perception adv. vs. hidden (all forms)                |
 | Barrakas  | Finding      | Irian, the Eternal Dawn          | 12    | Keen Hearing & Smell (all forms)                   |
 | Rhaan     | Scribing     | Thelanis, the Faerie Court       | 8     | Fey Ancestry (Hybrid/Dire only)                    |
 | Sypheros  | Shadow       | Mabar, the Endless Night         | 12    | Frightful Presence on Hybrid shift (Wis save)      |
 | Aryth     | Passage      | Dolurrh, the Realm of the Dead   | 10    | +10ft speed in Hybrid                              |
-| Vult      | Warding      | Shavarath, the Battleground      | 9     | Pack Tactics (all forms)                           |
+| Vult      | Warding      | Shavarath, the Battleground      | 10    | Pack Tactics (all forms)                           |
 | Crya      | Death (lost) | Dal'Quor, the Region of Dreams   | 5     | Immune to sleep + telepathy 60ft (all forms)       |
 
 
@@ -72,11 +72,3 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 ## Mechanical Gaps
 
 - [ ] **Involuntary shifting + Frenzy interaction** — If a Frenzy save fails and the werewolf shifts toward Animal Form, does this count as involuntary shifting for the purposes of the Involuntary Shifting rules? Clarify.
-
----
-
-## Tribe-wide Passives (Unimplemented Suggestions)
-
-Only Lharvion still has no tribe-wide passive. The earlier suggestions for Olarune, Rhaan, Sypheros, and Crya have all been superseded by different implemented passives (see main table above).
-
-- [ ] **Lharvion** — Advantage on Initiative rolls (all forms, passive)
