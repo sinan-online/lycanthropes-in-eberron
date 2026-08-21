@@ -82,3 +82,4 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [ ] I really need to do somethin about Sarlona, the Dreaming Dark and the Cyran werewolves.
 - [ ] Clarify that just touching silver does not detect a werewolf.
 - [ ] Rhaan werewolves need to get some sort of something related to Cold Iron. Maybe a way to substitute their vulnerability?
+- [ ] When did werewolves come into existence? Has to be after elves, at least.
