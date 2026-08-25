@@ -60,7 +60,7 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [ ] Barrakas (now has Why Does It Matter?; still missing Common Locations / Origins / Passive Power & Traits)
 - [x] Aryth
 - [x] Vult
-- [ ] Crya
+- [x] Crya
 
 
 
@@ -72,10 +72,6 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [ ] **Rhaan (8 features)** — the next-thinnest tier, well behind Olarune (19) and Dravago (17). Candidates suggested: *Faerie Fire*, *Seeming*, *Geas*, *Modify Memory*; also considering a high-level transformation spell (*True Polymorph* recommended, *Seeming* as a lighter alternative) — awaiting confirmation.
 
 ---
-
-## Mechanical Gaps
-
-- [ ] **Involuntary shifting + Frenzy interaction** — If a Frenzy save fails and the werewolf shifts toward Animal Form, does this count as involuntary shifting for the purposes of the Involuntary Shifting rules? Clarify.
 
 ## Others
 - [ ] Add a box explaining why the tribes are not balanced.
