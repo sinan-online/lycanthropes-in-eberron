@@ -38,12 +38,6 @@ They also correspond somewhat to the White Wolf books. Consider Anansi.
 
 ---
 
-## Structural Issues
-
-No outstanding structural issues.
-
----
-
 ## Structured Tribe Headers
 
 Which moons have the standard four-paragraph header (Common Locations / Origins / Passive Power & Traits / Why Does It Matter?):
