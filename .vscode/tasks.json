@@ -47,6 +47,48 @@
 			"problemMatcher": []
 		},
 		{
+			"label": "Pull",
+			"type": "shell",
+			"command": "git",
+			"args": ["pull", "--ff-only"],
+			"problemMatcher": []
+		},
+		{
+			"label": "Push",
+			"type": "shell",
+			"command": "git",
+			"args": ["push"],
+			"problemMatcher": []
+		},
+		{
+			"label": "Watch GitHub Action",
+			"type": "shell",
+			"command": "${workspaceFolder}/scripts/watch-action.sh",
+			"presentation": {
+				"reveal": "always",
+				"panel": "dedicated"
+			},
+			"problemMatcher": []
+		},
+		{
+			"label": "Push & Watch Build",
+			"dependsOn": ["Push", "Watch GitHub Action"],
+			"dependsOrder": "sequence",
+			"problemMatcher": []
+		},
+		{
+			"label": "Watch for Compiled PDF Updates",
+			"type": "shell",
+			"command": "${workspaceFolder}/scripts/watch-pdf.sh",
+			"isBackground": true,
+			"presentation": {
+				"reveal": "always",
+				"panel": "dedicated",
+				"close": false
+			},
+			"problemMatcher": []
+		},
+		{
 			"label": "Spell Check",
 			"type": "shell",
 			"command": "sh",
