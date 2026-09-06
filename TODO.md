@@ -49,9 +49,9 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 - [x] Sypheros
 - [x] Zarantyr
 - [x] Therendor
-- [ ] Nymm
-- [ ] Lharvion
-- [ ] Barrakas (now has Why Does It Matter?; still missing Common Locations / Origins / Passive Power & Traits)
+- [ ] Nymm (headers scaffolded with inspiration notes; Common Locations/Origins/Why Does It Matter? content pending)
+- [ ] Lharvion (headers scaffolded with inspiration notes; Common Locations/Origins/Why Does It Matter? content pending)
+- [ ] Barrakas (headers scaffolded with inspiration notes; Common Locations/Origins content pending)
 - [x] Aryth
 - [x] Vult
 - [x] Crya
@@ -62,7 +62,6 @@ Which moons have the standard four-paragraph header (Common Locations / Origins 
 
 ## Thin Sections Needing Features
 
-- [ ] **Crya (6 features)** — gained *Deathless Packmate* (Mark of Death angle, raising an undead werewolf minion), but still the thinnest moon by a wide margin (next lowest is 8).
 - [ ] **Rhaan (8 features)** — the next-thinnest tier, well behind Olarune (19) and Dravago (17). Candidates suggested: *Faerie Fire*, *Seeming*, *Geas*, *Modify Memory*; also considering a high-level transformation spell (*True Polymorph* recommended, *Seeming* as a lighter alternative) — awaiting confirmation.
 
 ---
