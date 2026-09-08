@@ -4,6 +4,20 @@
 
 \begin{document}
 
+\newgeometry{margin=0pt}
+\begin{titlepage}
+  \noindent
+  \begin{tikzpicture}[remember picture,overlay]
+    \node[anchor=north west,inner sep=0pt] at (current page.north west) {
+      \includegraphics[width=\paperwidth,height=\paperheight]{images/cover.x4.png}
+    };
+  \end{tikzpicture}
+\end{titlepage}
+\restoregeometry
+
+% Reset page counter so the next page is page 1
+\setcounter{page}{1}
+
 \chapter*{Lycanthropes in Eberron}
 
 What if werewolves of Eberron were twelve different ``tribes'', each impacted by a different moon of Eberron?\par
